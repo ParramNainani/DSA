@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParramNainani/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParramNainani/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
