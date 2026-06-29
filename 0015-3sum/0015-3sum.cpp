@@ -19,27 +19,18 @@ public:
         // }
         // return trips;
 
-                vector<vector<int>> trips;
+        vector<vector<int>> trips;
         set<vector<int>> s;
-
         sort(nums.begin(), nums.end());
         int n = nums.size();
-
         for(int i = 0; i < n - 2; i++) {
-
             for(int j = i + 1; j < n - 1; j++) {
-
                 int target = -(nums[i] + nums[j]);
-
                 int start = j + 1;
                 int end = n - 1;
-
                 while(start <= end) {
-
                     int mid = start + (end - start) / 2;
-
                     if(nums[mid] == target) {
-
                         s.insert({nums[i], nums[j], nums[mid]});
                         break;
                     }
@@ -52,10 +43,8 @@ public:
                 }
             }
         }
-
         for(auto x : s)
             trips.push_back(x);
-
         return trips;
     }
     
