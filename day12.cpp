@@ -48,7 +48,6 @@ int main() {
 
   // n = no of elements in 1
   // m == number of elements in 2
-
   unsigned int l = m + n - 1;
   int k = m - 1;
   int t = n - 1;
@@ -63,9 +62,15 @@ int main() {
       k--;
     }
   }
-  while (t >= 0) {
+  while (k >= 0) {
     nums1[l] = nums2[k];
     k--;
     l--;
   }
+
+  for (int i = 0; i < m + n; i++) {
+    cout << nums1[i] << ' ';
+  }
+
+  return 0;
 }
