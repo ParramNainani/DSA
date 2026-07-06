@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ParramNainani/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParramNainani/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParramNainani/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
@@ -23,17 +25,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ParramNainani/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ParramNainani/DSA/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ParramNainani/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ParramNainani/DSA/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ParramNainani/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ParramNainani/DSA/tree/master/0013-roman-to-integer) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
