@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ParramNainani/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/ParramNainani/DSA/tree/master/0867-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ParramNainani/DSA/tree/master/0867-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/ParramNainani/DSA/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
