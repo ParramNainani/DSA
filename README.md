@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ParramNainani/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ParramNainani/DSA/tree/master/0013-roman-to-integer) |
+| [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParramNainani/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParramNainani/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ParramNainani/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ParramNainani/DSA/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/ParramNainani/DSA/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
