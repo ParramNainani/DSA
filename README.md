@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ParramNainani/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/ParramNainani/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ParramNainani/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ParramNainani/DSA/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/ParramNainani/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/ParramNainani/DSA/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ParramNainani/DSA/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/ParramNainani/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ParramNainani/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ParramNainani/DSA/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
