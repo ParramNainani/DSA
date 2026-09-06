@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ParramNainani/DSA/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ParramNainani/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ParramNainani/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/ParramNainani/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ParramNainani/DSA/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ParramNainani/DSA/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ParramNainani/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ParramNainani/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ParramNainani/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ParramNainani/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Math
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ParramNainani/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ParramNainani/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ParramNainani/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ParramNainani/DSA/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
