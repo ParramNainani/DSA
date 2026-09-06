@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ParramNainani/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ParramNainani/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParramNainani/DSA/tree/master/0509-fibonacci-number) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/ParramNainani/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ParramNainani/DSA/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
