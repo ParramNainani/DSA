@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ParramNainani/DSA/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/ParramNainani/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/ParramNainani/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/ParramNainani/DSA/tree/master/0836-rectangle-overlap) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ParramNainani/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ParramNainani/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ParramNainani/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ParramNainani/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
